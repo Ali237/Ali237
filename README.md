@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Ghassan
 
 Welcome to my GitHub profile!
-
+---
 - 🔭 I’m currently working on enhancing automated testing procedures for semiconductor devices, specializing in silicon wafer testing.
 - 🌱 I’m currently learning more about VHDL and system-level simulation to deepen my expertise in FPGA and ASIC design.
 - 👯 I’m looking to collaborate on projects involving embedded systems, semiconductor fabrication, and hardware design.
