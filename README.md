@@ -8,7 +8,6 @@ Welcome to my GitHub profile!
 - 🤔 I’m looking for help with advanced digital logic design and the integration of AI in embedded systems.
 - 💬 Ask me about semiconductor processing, PCB design using KiCad, LTSpice simulations, or programming in C/C++ for embedded applications.
 - 📫 How to reach me: [ebrabish@ualberta.ca](mailto:ebrabish@ualberta.ca) or connect with me on [LinkedIn](https://www.linkedin.com/in/ghassan-ebrabish/).
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I started my journey in technology with a simple curiosity about how electronic devices are engineered to solve real-world problems.
 
 ### My Projects
